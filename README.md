@@ -1,5 +1,7 @@
 # RetrofitAPITest
 使用kotlin协程实现接口顺序调用
+
+
 /**
  * GlobalScope.launch {}
  * runBlocking{}到处调用
